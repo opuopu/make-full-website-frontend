@@ -1,0 +1,12 @@
+.app-title{
+    color: #0DEBEC;
+}
+.app-btn{
+    background-color: #0DEBEC;
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 10px 0;
+}
